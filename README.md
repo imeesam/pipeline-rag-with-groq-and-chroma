@@ -1,1 +1,1 @@
-# pipeline-rag-with-groq-and-chroma
+# pipelined-rag-with-groq-and-chroma
